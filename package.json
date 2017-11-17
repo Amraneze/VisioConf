@@ -1,0 +1,23 @@
+{
+  "name": "visiovideo",
+  "version": "1.0.0",
+  "description": "VisioConf for VisioCheck",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amraneze/VisioConf.git"
+  },
+  "keywords": [
+    "VisioConf",
+    "Visiocheck"
+  ],
+  "author": "Amrane AIT ZEOUAY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amraneze/VisioConf/issues"
+  },
+  "homepage": "https://github.com/Amraneze/VisioConf#readme"
+}
